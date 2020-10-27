@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/jpbetz/auger/pkg/data"
+	"github.com/yguo0905/auger/pkg/data"
 	"github.com/spf13/cobra"
 )
 

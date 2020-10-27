@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jpbetz/auger/cmd"
+	"github.com/yguo0905/auger/cmd"
 )
 
 func main() {

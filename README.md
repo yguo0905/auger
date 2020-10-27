@@ -27,7 +27,7 @@ Installation
 Check out and build:
 
 ```sh
-git clone https://github.com/jpbetz/auger
+git clone https://github.com/yguo0905/auger
 cd auger
 make release
 ```

@@ -21,7 +21,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/jpbetz/auger/pkg/encoding"
+	"github.com/yguo0905/auger/pkg/encoding"
 	"github.com/spf13/cobra"
 )
 

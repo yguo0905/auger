@@ -1,5 +1,5 @@
 NAME?=auger
-PKG?=github.com/jpbetz/$(NAME)
+PKG?=github.com/yguo0905/$(NAME)
 GO_VERSION?=1.12.2
 GOOS?=linux
 GOARCH?=amd64

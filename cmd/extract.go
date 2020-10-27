@@ -26,8 +26,8 @@ import (
 	"text/template"
 
 	"github.com/coreos/etcd/mvcc/mvccpb"
-	"github.com/jpbetz/auger/pkg/data"
-	"github.com/jpbetz/auger/pkg/encoding"
+	"github.com/yguo0905/auger/pkg/data"
+	"github.com/yguo0905/auger/pkg/encoding"
 	"github.com/spf13/cobra"
 )
 
