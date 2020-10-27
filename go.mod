@@ -1,6 +1,6 @@
 module github.com/yguo0905/auger
 
-go 1.12
+go 1.15
 
 require (
 	github.com/coreos/bbolt v1.3.1-coreos.3

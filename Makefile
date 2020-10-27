@@ -1,6 +1,6 @@
 NAME?=auger
 PKG?=github.com/yguo0905/$(NAME)
-GO_VERSION?=1.12.2
+GO_VERSION?=1.15.3
 GOOS?=linux
 GOARCH?=amd64
 TEMP_DIR:=$(shell mktemp -d)
