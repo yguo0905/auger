@@ -1,4 +1,4 @@
-module github.com/jpbetz/auger
+module github.com/yguo0905/auger
 
 go 1.12
 

@@ -21,7 +21,7 @@ import (
 
 	admissionv1beta1 "k8s.io/api/admission/v1beta1"
 
-	admissionregistrationv1alpha1 "k8s.io/api/admissionregistration/v1alpha1"
+	admissionregistrationv1 "k8s.io/api/admissionregistration/v1"
 	admissionregistrationv1beta1 "k8s.io/api/admissionregistration/v1beta1"
 
 	appsv1 "k8s.io/api/apps/v1"
@@ -101,7 +101,7 @@ func init() {
 func AddToScheme(scheme *runtime.Scheme) {
 	admissionv1beta1.AddToScheme(scheme)
 
-	admissionregistrationv1alpha1.AddToScheme(scheme)
+	admissionregistrationv1.AddToScheme(scheme)
 	admissionregistrationv1beta1.AddToScheme(scheme)
 
 	appsv1.AddToScheme(scheme)
